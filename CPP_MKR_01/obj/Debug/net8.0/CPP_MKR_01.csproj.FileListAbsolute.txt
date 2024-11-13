@@ -12,3 +12,4 @@ C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\
 C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.pdb
 C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.genruntimeconfig.cache
 C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\ref\CPP_MKR_01.dll
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.sourcelink.json
