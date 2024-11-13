@@ -1,0 +1,14 @@
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\bin\Debug\net8.0\CPP_MKR_01.exe
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\bin\Debug\net8.0\CPP_MKR_01.deps.json
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\bin\Debug\net8.0\CPP_MKR_01.runtimeconfig.json
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\bin\Debug\net8.0\CPP_MKR_01.dll
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\bin\Debug\net8.0\CPP_MKR_01.pdb
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.AssemblyInfoInputs.cache
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.AssemblyInfo.cs
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.csproj.CoreCompileInputs.cache
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.dll
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\refint\CPP_MKR_01.dll
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.pdb
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\CPP_MKR_01.genruntimeconfig.cache
+C:\Users\VeronikaManoshyna\Desktop\унік\3 курс\кпп\mkr_01\CPP_MKR_01\obj\Debug\net8.0\ref\CPP_MKR_01.dll

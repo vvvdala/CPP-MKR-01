@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VeronikaManoshyna\\Desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\CPP_MKR_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F438A484-26B5-4C80-89F2-BD2213B6B516}|..\\Tests\\Tests.csproj|c:\\users\\veronikamanoshyna\\desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A761D6B5-12F3-490C-BFDA-E4D68BD735C7}|CPP_MKR_01.csproj|c:\\users\\veronikamanoshyna\\desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\cpp_mkr_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A761D6B5-12F3-490C-BFDA-E4D68BD735C7}|CPP_MKR_01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A761D6B5-12F3-490C-BFDA-E4D68BD735C7}|CPP_MKR_01.csproj|c:\\users\\veronikamanoshyna\\desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\cpp_mkr_01\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A761D6B5-12F3-490C-BFDA-E4D68BD735C7}|CPP_MKR_01.csproj|solutionrelative:friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\VeronikaManoshyna\\Desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\VeronikaManoshyna\\Desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:24:40.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Friend.cs",
+              "DocumentMoniker": "C:\\Users\\VeronikaManoshyna\\Desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\CPP_MKR_01\\Friend.cs",
+              "RelativeDocumentMoniker": "Friend.cs",
+              "ToolTip": "C:\\Users\\VeronikaManoshyna\\Desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\CPP_MKR_01\\Friend.cs",
+              "RelativeToolTip": "Friend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:23:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VeronikaManoshyna\\Desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\CPP_MKR_01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VeronikaManoshyna\\Desktop\\\u0443\u043D\u0456\u043A\\3 \u043A\u0443\u0440\u0441\\\u043A\u043F\u043F\\mkr_01\\CPP_MKR_01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:19:35.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
